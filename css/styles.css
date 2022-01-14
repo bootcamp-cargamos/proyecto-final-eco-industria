@@ -30,6 +30,9 @@
 .text_fourth{
     color: var(--fourth);
 }
+.texto-justificado{
+    text-align: justify;
+}
 .overlay{
     position: absolute;
     background-color: #0000002c;
